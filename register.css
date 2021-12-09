@@ -1,6 +1,6 @@
 /* Register */
 /* Add padding to containers */
-.container, .box {
+.container{
   background-image: url(img/register.jpeg);
     max-width: 450px;
     width: 100%;
